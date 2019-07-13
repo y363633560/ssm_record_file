@@ -12,6 +12,8 @@ public class Leave {
     private String reason;
     private int state;
 
+
+
     public int getLid() {
         return lid;
     }
